@@ -17,4 +17,3 @@ html, css, javascript, python
 
 1. Open index.html in your browser.
 
-
