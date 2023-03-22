@@ -33,6 +33,27 @@ body
 
 }
 
+.navbar li a:hover
+{
+
+    color: darkolivegreen;
+
+}
+
+.navbar li a:active
+{
+
+    color: aquamarine;
+
+}
+
+.navbar li a:visited
+{
+
+    color: aquamarine;
+
+}
+
 .container
 {
 
