@@ -2,7 +2,9 @@ body
 {
 
     background-color: black;
-    color: green;
+    color: darkolivegreen;
+    font-family: Z003;
+    font-size: 24px;
 
 }
 
@@ -23,20 +25,29 @@ body
 
 }
 
+.navbar li a
+{
+
+    color: aqua;
+    text-decoration: none;
+
+}
+
 .container
 {
 
     display: block;
-    color: green;
+    color: aqua;
     text-align: center;
     padding: 0 20px 0 20px;
 
 }
 
-.container h1
+.greeting
 {
 
     line-height: 2;
+    color: darkolivegreen;
 
 }
 
